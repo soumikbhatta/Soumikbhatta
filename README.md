@@ -16,7 +16,7 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-### I am Darshan Jain
+### I am Soumik Bhatta
 - A Full-Stack Developer & Open Source enthusiast.
 - A Final Year Computer Science and Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development and Blockchain.

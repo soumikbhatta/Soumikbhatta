@@ -16,7 +16,7 @@
 <br>
 
 ### I am Soumik Bhatta
-- A Full-Stack Developer & Open Source enthusiast.
+- A Full-Stack Developer & Cybersecurity enthusiast.
 - A Final Year Computer Science and Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development and Blockchain.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.

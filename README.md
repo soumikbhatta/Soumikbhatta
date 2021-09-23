@@ -13,8 +13,6 @@
   <img align="left" alt="Darshan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
 
-<br />
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Soumik Bhatta
 - A Full-Stack Developer & Open Source enthusiast.

@@ -12,11 +12,3 @@
 <a href="https://www.facebook.com/soumik.bhatta.9">
   <img align="left" alt="Soumik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
-
-<br>
-
-### I am Soumik Bhatta
-- A Full-Stack Developer & Cybersecurity enthusiast.
-- A Final Year Computer Science and Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Blockchain.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.

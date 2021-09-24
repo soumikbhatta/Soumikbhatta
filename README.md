@@ -9,8 +9,8 @@
 <a href="https://github.com/Soumikbhatta">
   <img align="left" alt="Soumik's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://medium.com/@darshanjain_5991">
-  <img align="left" alt="Darshan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
+<a href="https://www.facebook.com/soumik.bhatta.9">
+  <img align="left" alt="Soumik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
 
 <br>

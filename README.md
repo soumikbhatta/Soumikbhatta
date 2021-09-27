@@ -13,6 +13,8 @@
   <img align="left" alt="Soumik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
 
+<br>
+
 ### I am Soumik Bhatta
 - An Full Stack Web Developer & Cybersecurity enthusiast.
 - A Final Year Computer Science Student @ VIT Vellore 

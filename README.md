@@ -18,5 +18,5 @@
 ### I am Soumik Bhatta
 - A Full Stack Web Developer & Cybersecurity enthusiast.
 - A Final Year Computer Science Student @ VIT Vellore 
-- Currently working on some of my cool side projects based on Web Development.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way
+- Currently working on some of my projects based on Web Development.
+- I'm currently looking for new opportunities. I love to learn and contribute in any and every possible way

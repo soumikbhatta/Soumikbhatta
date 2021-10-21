@@ -1,4 +1,5 @@
 ## Hi There! <img src="https://c.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif" width="30px"></h2>
+<img width="20%" align="right" alt="Github" src="https://github.githubassets.com/images/mona-loading-default.gif" />
 
 <a href="https://twitter.com/soumik_1712">
   <img align="left" alt="Soumik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

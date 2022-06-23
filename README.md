@@ -1,4 +1,4 @@
-## Hi There! <img src="https://c.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif" width="30px"></h2>
+## Hi There! <img src="https://c.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif" width="20%"></h2>
 <img width="20%" align="right" alt="Github" src="https://github.githubassets.com/images/mona-loading-default.gif" />
 
 <a href="https://twitter.com/soumik_1712">

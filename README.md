@@ -1,6 +1,6 @@
 <img width="20%" align="right" alt="Github" src="https://github.githubassets.com/images/mona-loading-default.gif" />
 
-
+"The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom." ― Isaac Asimov
 - **Full Stack Developer | Generative AI Explorer | Cybersecurity Enthusiast** 
 - **2+ years of experience** building engaging React Native and ReactJS applications for retail banking at IDFC FIRST BANK.
 - **B.Tech in Computer Science (2022) with specialization in Information Security** from VIT Vellore. 
